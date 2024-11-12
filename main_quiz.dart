@@ -57,7 +57,7 @@ class MultipleChoiceQuestion extends Question {
   }
 }
 
-// Participant and Quiz classes remain the same as in your original code
+// Participant and Quiz classes 
 class Participant {
   String firstName;
   String lastName;
