@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/MSI-PC/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "quiz_project",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-11-04T22:34:44.514177Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.3",
+  "flutterRoot": "file:///C:/Flutter/flutter",
+  "flutterVersion": "3.24.3",
+  "pubCache": "file:///C:/Users/MSI-PC/AppData/Local/Pub/Cache"
+}
